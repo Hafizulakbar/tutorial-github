@@ -1,4 +1,2 @@
-## Helo
-ini adalah  tutorial git
-
-## ini perubahan pertama
+# Hello
+ini adalah file pengganti readme.md
